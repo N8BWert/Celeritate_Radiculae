@@ -108,7 +108,7 @@ Experiment:
 WriteUp and Conclusion Study:
 - ? -> ?
 
-##Contributing
+## Contributing
 
 If you are interested in contributing to *Celeritate Radiculae* please send me an email and I will be sure to respond.
 
